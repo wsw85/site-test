@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	font-family: georgia;
+	background-color: #add8e6;
+	}
+.content_reg {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	padding: 10px;
+	width: 400px;
+	border-radius: 10px;
+	border: solid 1px black;	
+	background-color: #F0E68C;
+	height: 50%;	
+	box-shadow: 0 0 20px rgba(0,0,0,0.9);
+	}
+
+.field {
+	clear: both;
+	text-align: right;
+	line-height: 30px;
+	}
+
+label {
+	float: left;
+	padding-right: 10px;
+	}
+
+.auth {
+	width: 325px;
+	margin: 0 auto;
+	}
